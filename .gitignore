@@ -55,7 +55,7 @@ setup_admin.php
 hash.php
 
 # System CI3 (download terpisah — tidak perlu push)
-system/
+
 
 # Environment
 .env

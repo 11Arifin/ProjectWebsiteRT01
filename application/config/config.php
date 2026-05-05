@@ -6,7 +6,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | Base Site URL
 |--------------------------------------------------------------------------
 */
-$config['base_url'] = 'http://localhost/jawa/'; // Pastikan folder "jawa" ada di dalam htdocs XAMPP
+$config['base_url'] = ''; // Pastikan folder "jawa" ada di dalam htdocs XAMPP
 
 /*
 |--------------------------------------------------------------------------
@@ -20,7 +20,7 @@ $config['index_page'] = '';
 | URI PROTOCOL
 |--------------------------------------------------------------------------
 */
-$config['uri_protocol'] = 'AUTO';
+$config['uri_protocol'] = 'PATH_INFO';
 
 /*
 |--------------------------------------------------------------------------
